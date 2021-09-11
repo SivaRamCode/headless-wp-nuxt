@@ -1,4 +1,4 @@
-const siteURL = "https://tamilhdbox.com"
+const siteURL = "https://www.tamildhool.net"
 
 export const state = () => ({
   posts: [],
